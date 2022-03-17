@@ -3,30 +3,24 @@
 
 <p align="left"> <a href="https://twitter.com/sabooshubham18" target="blank"><img src="https://img.shields.io/twitter/follow/sabooshubham18?logo=twitter&style=for-the-badge" alt="sabooshubham18" /></a> </p>
 
-- 🔭 I’m currently working on **Podcast Summerization**
+- 🔭 I’m currently working on **Sign Language Translation**
 
-- 🌱 I’m currently learning **JAX and Linear Algebra**
+- 🌱 I’m currently learning **Deep Learning and Pytorch**
 
-- 👯 I’m looking to collaborate on **Research Papers**
+- 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 👨‍💻 All of my projects are available at [krypticmouse.github.io/](krypticmouse.github.io/)
+- 💬 Ask me about **ML, DL, NLP, CV, Data Science**
 
-- 📝 All of my blogs are available [**here**](https://krypticmouse.github.io/blogs.html)
+- 📫 How to reach me **sabooshubham2000@gmail.com**
 
-- 💬 Ask me about **ML, DL, IoT, NLP, CV**
-
-- 📫 How to reach me **herumbshandilay123@gmail.com**
-
-- ⚡ Fun fact **I stalk PyTorch in my Free Time**
+- ⚡ Fun fact **I love meeting new people!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/krypticmouse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krypticmouse" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/herumb-s-740163131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="herumb-s-740163131" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/krypticmouse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="krypticmouse" height="30" width="40" /></a>
-<a href="https://kaggle.com/krypticmouse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="krypticmouse" height="30" width="40" /></a>
-<a href="https://hashnode.com/@krypticmouse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@krypticmouse" height="30" width="40" /></a>
-<a href="https://medium.com/@theaveragecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@theaveragecoder" height="30" width="40" /></a>
+<a href="https://twitter.com/sabooshubham18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabooshubham18" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubham-saboo-2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-saboo-2000" height="30" width="40" /></a>
+<a href="https://kaggle.com/shubhamsaboo21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubhamsaboo21" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
