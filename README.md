@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/sabooshubham18" target="blank"><img src="https://img.shields.io/twitter/follow/sabooshubham18?logo=twitter&style=for-the-badge" alt="sabooshubham18" /></a> </p>
 
-- 🔭 I’m currently working on **Sign Language Translation**
+- 🔭 I’m currently working on **Large Language Models**
 
-- 🌱 I’m currently learning **Deep Learning and Pytorch**
+- 🌱 I’m currently learning **MLOps**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 💬 Ask me about **ML, DL, NLP, CV, Data Science**
+- 💬 Ask me about **Machine Learning or Natural Language Processing**
 
 - 📫 How to reach me **sabooshubham2000@gmail.com**
 
