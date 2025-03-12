@@ -39,7 +39,12 @@
 ### ⚡ Data Engineer | Cognizant (Feb’22 – May’23)
 🚀 Built scalable **ETL pipelines** in **AWS (Glue, Redshift, Lambda)** for real-time analytics.  
 🔥 Optimized **Spark SQL queries**, boosting performance by **35%**.  
-📡 Reduced **data latency by 55%** using **Airflow & Databricks**.  
+📡 Reduced **data latency by 55%** using **Airflow & Databricks**.
+
+### 🛡️ Machine Learning Engineer Intern | Vigilante Cyber Forces (Apr’21 – May’21)
+📜 **Preprocessed a self-curated spam message dataset** in **Hindi** using NLP techniques.  
+🤖 Developed **Deep Learning models (LSTM, Bi-LSTM)** to classify spam content.  
+🎯 Achieved **92% accuracy** in detecting spam calls through model optimization. 
 
 ---
 💡 Want to know more? Check out my **[GitHub Projects](https://github.com/Shubham-Saboo)** or **[My Resume](https://drive.google.com/file/d/1uB1nXi3jvPoohR5VoYaoJ1LRiPz4yj0Y/view?usp=drive_link)**.  
