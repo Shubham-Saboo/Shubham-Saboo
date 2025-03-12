@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/sabooshubham18" target="blank"><img src="https://img.shields.io/twitter/follow/sabooshubham18?logo=twitter&style=for-the-badge" alt="sabooshubham18" /></a> </p>
 
-- 🔭 I’m currently working on **Large Language Models**
+- 🔭 I’m currently working on building **RAG Pipelines**
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 👯 I’m open to opportunities in **Data Science/Data Engineering/Machine Learning Engineering/Software Development**
 
 - 💬 Ask me about **Machine Learning or Natural Language Processing**
 
