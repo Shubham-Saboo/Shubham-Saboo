@@ -19,14 +19,6 @@
 
 - ⚡ Fun fact **I love meeting new people!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sabooshubham18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabooshubham18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubham-saboo-2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-saboo-2000" height="30" width="40" /></a>
-<a href="https://kaggle.com/shubhamsaboo21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubhamsaboo21" height="30" width="40" /></a>
-
-</p>
-
 ## 🚀 Work Experience
 
 ### 🔬 Data Scientist Intern | UNC-Chapel Hill School of Medicine (Aug’24 – Present)
@@ -50,7 +42,7 @@
 📡 Reduced **data latency by 55%** using **Airflow & Databricks**.  
 
 ---
-💡 Want to know more? Check out my **[GitHub Projects](https://github.com/Shubham-Saboo)** or **[My Resume](link-to-your-resume.pdf)**.  
+💡 Want to know more? Check out my **[GitHub Projects](https://github.com/Shubham-Saboo)** or **[My Resume](https://drive.google.com/file/d/1uB1nXi3jvPoohR5VoYaoJ1LRiPz4yj0Y/view?usp=drive_link)**.  
 
 
 <h3 align="left">Languages and Tools:</h3>
