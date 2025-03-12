@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubham Saboo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubham-Saboo&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham-Saboo" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sabooshubham18" target="blank"><img src="https://img.shields.io/twitter/follow/sabooshubham18?logo=twitter&style=for-the-badge" alt="sabooshubham18" /></a> </p>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/shubham-saboo-2000/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
+  </a> 
+</p>
 
 - 🔭 I’m currently working on building **RAG Pipelines**
 
